@@ -1,0 +1,12 @@
+{
+    "defaultEnv": "local",
+    "local": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "1234",
+        "host": "localhost",
+        "database": "ajedrez",
+        "port": "5432",
+        "schema": "ajedrez"
+    }
+  }
